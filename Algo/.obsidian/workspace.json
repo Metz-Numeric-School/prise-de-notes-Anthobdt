@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "c43214ed10df2eee",
+    "type": "split",
+    "children": [
+      {
+        "id": "d84596a9ca3d5efd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7bb1cca0fc9af77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cours/Algo/23-09-2024 algo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38642bd0471de351",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3f69496a0c4a0c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca3c1c5700ba516",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d08e576b6e3e5c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fb7cb88d6a00815",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9a31f7e61ebe75c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b66f351edf1eb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d45e6d82a715d6d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cours/Algo/23-09-2024 algo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7ea418735679ab6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cours/Algo/23-09-2024 algo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4042dc41c6b7ac43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4792cc58acc971d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cours/Algo/23-09-2024 algo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "f7bb1cca0fc9af77",
+  "lastOpenFiles": [
+    "Modules A/Sans titre.md",
+    "Modules A/Sans titre 1.md",
+    "cours/Algo/23-09-2024 algo.md",
+    "cours/Algo/Sans titre 1.md",
+    "cours/Algo/Sans titre.canvas",
+    "Algo - 2024-09-23.md",
+    "Modules A/Sans titre/Sans titre.canvas",
+    "Bienvenue.md",
+    "cours/Algo",
+    "Sans titre 1.canvas",
+    "Sans titre.canvas",
+    "Modules A/Sans titre",
+    "Sans titre 2",
+    "Modules A",
+    "cours"
+  ]
+}
