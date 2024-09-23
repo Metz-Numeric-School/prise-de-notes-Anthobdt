@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d84596a9ca3d5efd",
+        "id": "0979e5b4b4163fc1",
         "type": "tabs",
         "children": [
           {
-            "id": "f7bb1cca0fc9af77",
+            "id": "e4b31b0bd5fd2246",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,19 +146,20 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f7bb1cca0fc9af77",
+  "active": "e4b31b0bd5fd2246",
   "lastOpenFiles": [
     "Modules A/Sans titre.md",
-    "Algo - 2024-09-23.md",
-    "cours/Algo/23-09-2024 algo.md",
     "Modules A/Sans titre 1.md",
+    "cours/Algo/23-09-2024 algo.md",
+    "2024-09-23.md",
+    "Sans titre.canvas",
+    "Algo - 2024-09-23.md",
     "cours/Algo/Sans titre 1.md",
     "cours/Algo/Sans titre.canvas",
     "Modules A/Sans titre/Sans titre.canvas",
     "Bienvenue.md",
     "cours/Algo",
     "Sans titre 1.canvas",
-    "Sans titre.canvas",
     "Modules A/Sans titre",
     "Sans titre 2",
     "Modules A",
