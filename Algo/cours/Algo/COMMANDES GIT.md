@@ -1,0 +1,8 @@
+- commit
+- branch creer une nouvelle branche 
+- checkout se positionner sur la branche 
+- cherry-pick
+- reset 
+- revert
+- rebase combiner deux branches
+- merge combiner deux branches 
